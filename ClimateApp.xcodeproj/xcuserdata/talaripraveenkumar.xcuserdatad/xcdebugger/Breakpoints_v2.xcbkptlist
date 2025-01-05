@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "856FAEBC-CC62-405B-A08C-D4D7D0802C43"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D8B8D89-823E-4ECD-B065-A63C92F88F5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimateApp/WeatherDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "showLoading(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D8B8D89-823E-4ECD-B065-A63C92F88F5E - 9c08b123cdc0f9fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimateApp.WeatherDetailsVC.updateForecastUI(with: ClimateApp.ForecastResponse) -&gt; ()"
+                  moduleName = "ClimateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talaripraveenkumar/Documents/ClimateApp/ClimateApp/WeatherDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "2700">
+               </Location>
+               <Location
+                  uuid = "2D8B8D89-823E-4ECD-B065-A63C92F88F5E - 215fbb89948b48c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimateApp.WeatherDetailsVC.showLoading(Swift.Bool) -&gt; ()"
+                  moduleName = "ClimateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talaripraveenkumar/Documents/ClimateApp/ClimateApp/WeatherDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "2D8B8D89-823E-4ECD-B065-A63C92F88F5E - 215fbb89948b48c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimateApp.WeatherDetailsVC.showLoading(Swift.Bool) -&gt; ()"
+                  moduleName = "ClimateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talaripraveenkumar/Documents/ClimateApp/ClimateApp/WeatherDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04D8594D-8B86-41DF-ABDC-EEC1112E04DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClimateApp/WeatherDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "showError(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04D8594D-8B86-41DF-ABDC-EEC1112E04DB - 9c08b123cdc0f926"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimateApp.WeatherDetailsVC.updateForecastUI(with: ClimateApp.ForecastResponse) -&gt; ()"
+                  moduleName = "ClimateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talaripraveenkumar/Documents/ClimateApp/ClimateApp/WeatherDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "3548">
+               </Location>
+               <Location
+                  uuid = "04D8594D-8B86-41DF-ABDC-EEC1112E04DB - de3d3cd5a806dd47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClimateApp.WeatherDetailsVC.showError(Swift.String) -&gt; ()"
+                  moduleName = "ClimateApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talaripraveenkumar/Documents/ClimateApp/ClimateApp/WeatherDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
