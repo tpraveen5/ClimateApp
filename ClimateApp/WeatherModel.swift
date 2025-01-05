@@ -6,11 +6,7 @@
 //
 
 import Foundation
-import Foundation
 
-// Model to represent weather data
-
-// Model to represent current weather data
 struct CurrentWeatherResponse: Decodable {
     let main: MainWeatherData
     let weather: [Weather]
